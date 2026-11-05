@@ -12,7 +12,7 @@ Information first. Software that does one thing well.
 
 The manifesto sets the direction; daily use corrects it. Two documented cases:
 
-- **The license** — "enforce GPLv3" (2018) became **MIT by default, copyleft only when justified** (2026 — annotated on the manifesto itself).
+- **The license** — "enforce GPLv3" (2018) became **MIT by default, copyleft only when justified** (2026).
 - **The three 2018 gists are about the individual; the work happens in a team** — 2026 adds the missing dimension: the Agile principles I actually live, a curated selection of the twelve ([the 12 principles, the ones I live](https://gist.github.com/ailonn/97255b16ae2a6a22d3cb46e84969ad06)).
 
 ## Practice, not just principles
